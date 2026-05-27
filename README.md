@@ -18,7 +18,7 @@ animação da roda — ou seja, a roleta gira bonita, mas o destino já está de
 
 ## 🚀 Acesse e jogue
 
-👉 [Clique aqui para jogar](https://seuusuario.github.io/roleta-casino)
+👉 [Clique aqui para jogar](https://gusta-franca7.github.io/roleta-casino)
 
 > **Aviso:** este jogo foi criado exclusivamente para fins acadêmicos e de
 > demonstração. Não incentiva jogos de azar.
